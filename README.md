@@ -25,7 +25,7 @@ System allows users to create, edit, delete, search, and summarize notes through
 - Laravel Blade Frontend
 
 
-![Home Page](public/home.png)
+![Home Page](public/createnote.png)
 
 <img src="/ai-notes-app/public/createnote.png">
 
