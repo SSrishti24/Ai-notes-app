@@ -159,3 +159,5 @@ Usage:
 
 Generated code was manually reviewed, tested, and modified before integration.
 
+Limitations
+The summary endpoint currently uses a local summarization approach for development/testing. The architecture is designed to support integration with external LLM providers such as Gemini or OpenAI.
