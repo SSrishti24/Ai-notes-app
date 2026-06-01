@@ -58,6 +58,13 @@ System allows users to create, edit, delete, search, and summarize notes through
 | created_at | timestamp |
 | updated_at | timestamp |
 
+## Fresh machine setup
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
 ## API Endpoints
 
 ### Get Notes
